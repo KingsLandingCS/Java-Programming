@@ -8,6 +8,8 @@ public class Main {
         double myDouble = 7.3243;
         double myFloat = 324.3f;
         double myChar = 'y';
+        boolean myBoolean = false;
+        byte myByte = 127;
 
         System.out.println(myNumber);
         System.out.println(myShort);
@@ -15,6 +17,7 @@ public class Main {
         System.out.println(myDouble);
         System.out.println(myFloat);
         System.out.println(myChar);
-
+        System.out.println(myBoolean);
+        System.out.println(myByte);
     }
 }
