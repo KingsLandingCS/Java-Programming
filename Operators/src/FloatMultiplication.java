@@ -11,6 +11,6 @@ public class FloatMultiplication {
         double second = input.nextDouble();
 
         double mul = first * second;
-        System.out.println("\n Result is: " + mul);
+        System.out.println("\n Result is: " + first * mul);
     }
 }
